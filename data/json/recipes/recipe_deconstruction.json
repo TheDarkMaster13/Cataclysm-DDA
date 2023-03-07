@@ -7708,4 +7708,12 @@
     "qualities": [ { "id": "HAMMER", "level": 2 }, { "id": "SAW_M", "level": 2 } ],
     "components": [ [ [ "steel_lump", 7 ], [ "steel_chunk", 2 ] ] ]
   }
+  {
+    "result": "meat",
+    "type": "uncraft",
+    "activity_level": "NO_EXERCISE",
+    "time": "20 s",
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "meat_scrap", 10 ] ] ]
+  },
 ]
